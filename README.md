@@ -6,7 +6,7 @@
 
 重庆 · 5 年经验 · Chongqing · 5 Years Experience
 
-[![Email](https://img.shields.io/badge/Email-754671297%40qq.com-blue?style=flat-square&logo=gmail)](mailto:754671297@qq.com)
+[![Email](https://img.shields.io/badge/Email-jinjiangjin48%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jinjiangjin48@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tiajinsha-181717?style=flat-square&logo=github)](https://github.com/tiajinsha)
 
 </div>
