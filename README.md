@@ -76,7 +76,7 @@
 
 | | |
 |---|---|
-| 📧 Email | [754671297@qq.com](mailto:jinjiangjin48@gmail.com) |
+| 📧 Email | [jinjiangjin48@gmail.com](mailto:jinjiangjin48@gmail.com) |
 | 🐙 GitHub | [github.com/tiajinsha](https://github.com/tiajinsha) |
 | 📍 Location | 重庆 Chongqing, China |
 
